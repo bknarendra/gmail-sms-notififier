@@ -1,0 +1,5 @@
+Here I wrote a small utility in java using curl and my youmint api for receving gmail natifications.
+It sends you notification on mobile phone as sms when you receive a new mail from a particular user you want to watch.
+For configuration purposes there is input.ini file tht you can configure where you specify informtion needed by the program
+You can modify it to use other sites for sending sms. I have currently used only youmint to send smses.
+Hope  you like it..........

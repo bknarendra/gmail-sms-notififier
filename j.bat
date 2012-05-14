@@ -1,0 +1,1 @@
+wget  -O - 'https://%1@mail.google.com/mail/feed/atom' --no-check-certificate
